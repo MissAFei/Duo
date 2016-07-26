@@ -8,6 +8,10 @@
         "source": "F:\\DuoDuo\\Vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_launcher.png"
     },
     {
+        "merged": "E:\\ddd\\Vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "E:\\ddd\\Vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\Second\\DuoDuo\\Vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_launcher.png",
         "source": "F:\\Second\\DuoDuo\\Vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_launcher.png"
     }

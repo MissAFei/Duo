@@ -18,9 +18,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-
-
-
     private List<Fragment> list;
     private FragmentManager fragmentmanager;
     private Fragment currentFragment;
@@ -87,6 +84,8 @@ public class MainActivity extends AppCompatActivity {
             return;
         if (!to.isAdded()) {
             getSupportFragmentManager().beginTransaction().hide(from).add(R.id.main_fragmentlaout, to).commit();
+
+
 
         } else {
             getSupportFragmentManager().beginTransaction().hide(from).show(to).commit();

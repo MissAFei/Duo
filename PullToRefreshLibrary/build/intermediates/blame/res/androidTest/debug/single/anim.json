@@ -16,12 +16,16 @@
         "source": "F:\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
     },
     {
-        "merged": "F:\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
-        "source": "F:\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+        "merged": "E:\\ddd\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\ddd\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
     },
     {
         "merged": "F:\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
         "source": "F:\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
     },
     {
         "merged": "E:\\IT\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
@@ -32,6 +36,10 @@
         "source": "F:\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
     },
     {
+        "merged": "E:\\ddd\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\ddd\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
         "merged": "F:\\Second\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
         "source": "F:\\Second\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
     },
@@ -40,8 +48,16 @@
         "source": "F:\\Second\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
     },
     {
+        "merged": "E:\\ddd\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\ddd\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
         "merged": "F:\\Second\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
         "source": "F:\\Second\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\ddd\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\ddd\\PullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
     },
     {
         "merged": "E:\\IT\\DuoDuo\\PullToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
