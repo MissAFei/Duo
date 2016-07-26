@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "E:\\IT\\DuoDuo\\SlidingLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 42,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "E:\\IT\\DuoDuo\\SlidingLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 42,
+                        "endOffset": 999
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\DuoDuo\\SlidingLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 42,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "F:\\DuoDuo\\SlidingLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 42,
+                        "endOffset": 999
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Second\\DuoDuo\\SlidingLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 42,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "F:\\Second\\DuoDuo\\SlidingLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 42,
+                        "endOffset": 999
+                    }
+                }
+            }
+        ]
+    }
+]
